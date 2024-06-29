@@ -1,0 +1,10 @@
+forge-std/=lib/forge-std/src/
+openzeppelin-contracts/=lib/openzeppelin-contracts/contracts/
+evc/=lib/ethereum-vault-connector/src/
+evc-playground/=lib/evc-playground/src/
+a16z-erc4626-tests/=lib/erc4626-tests/
+@eigenlayer/=lib/eigenlayer-middleware/lib/eigenlayer-contracts/src/
+@eigenlayer-scripts/=lib/eigenlayer-middleware/lib/eigenlayer-contracts/script/
+@eigenlayer-middleware/=lib/eigenlayer-middleware/
+@openzeppelin/=lib/eigenlayer-middleware/lib/eigenlayer-contracts/lib/openzeppelin-contracts/
+@openzeppelin-upgrades/=lib/eigenlayer-middleware/lib/eigenlayer-contracts/lib/openzeppelin-contracts-upgradeable/

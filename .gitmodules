@@ -4,6 +4,26 @@
 [submodule "contracts/lib/eigenlayer-middleware"]
 	path = contracts/lib/eigenlayer-middleware
 	url = https://github.com/Layr-Labs/eigenlayer-middleware
+	ignore = dirty
 [submodule "lib/evc-playground"]
 	path = lib/evc-playground
 	url = https://github.com/euler-xyz/evc-playground
+[submodule "evc-contracts/lib/evc-playground"]
+	path = evc-contracts/lib/evc-playground
+	url = https://github.com/euler-xyz/evc-playground
+[submodule "evc-contracts/lib/openzeppelin-contracts"]
+	path = evc-contracts/lib/openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts
+[submodule "evc-contracts/lib/ethereum-vault-connector"]
+	path = evc-contracts/lib/ethereum-vault-connector
+	url = https://github.com/euler-xyz/ethereum-vault-connector
+[submodule "evc-contracts/lib/erc4626-tests"]
+	path = evc-contracts/lib/erc4626-tests
+	url = https://github.com/a16z/erc4626-tests
+[submodule "evc-contracts/lib/forge-std"]
+	path = evc-contracts/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "evc-contracts/lib/eigenlayer-middleware"]
+	path = evc-contracts/lib/eigenlayer-middleware
+	url = https://github.com/Layr-Labs/eigenlayer-middleware
+	ignore = dirty
